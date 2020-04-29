@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "illuminate/container": "^7.9",
+        "illuminate/events": "^7.9",
+        "illuminate/filesystem": "^7.9",
+        "illuminate/view": "^7.9"
+    }
+}
